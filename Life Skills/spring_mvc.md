@@ -27,7 +27,7 @@ Spring Framework is a Java framework used to build enterprise applications easil
 Spring MVC is a part of Spring Framework that uses MVC architecture to build applications.
 
 - DispatcherServlet handles requests  
-- Controller processes request
+- Controller processes the request
 - Model stores data  
 - View displays output  
 
@@ -39,7 +39,7 @@ Spring MVC helps in building web applications in a simple and structured way. It
 
 - Easy to maintain and update
 - Improves code structure
-- Clear seperation of components
+- Clear separation of components
 
 ## References
 
