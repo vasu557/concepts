@@ -5,11 +5,22 @@ MVC architecture is used to organize applications so that they are easy to under
 
 ## What is MVC Architecture
 
-MVC stands for Model, View, and Controller.
+MVC stands for Model, View, and Controller. It divides an application into three main parts.
 
-- Model handles data and business logic and interacts with the database  
-- View displays data to the user  
-- Controller handles user requests and connects Model and View  
+### Model
+- Model represents data and business logic
+- It interacts with the database
+- Example: user data, product details
+
+### View
+- View is responsible for displaying data to the user
+- It shows the output on the screen
+- Example: HTML or JSP pages
+
+### Controller
+- Controller handles user requests
+- It connects Model and View
+- It processes input and returns output
 
 ## Working of MVC
 
